@@ -10,3 +10,9 @@
 # Flask: 
 - activate PythonData environment, within the folder your files are stored in
 - python app.py
+
+
+# Bootstrap changes:
+- changed jumbotron background color
+- added secondary text color
+- increased mars facts table heading size
